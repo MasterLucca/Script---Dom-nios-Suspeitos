@@ -1,0 +1,5 @@
+Adicione os domínios legítimos aqui 
+
+Domain1
+domain2
+....
